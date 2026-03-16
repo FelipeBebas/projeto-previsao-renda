@@ -18,7 +18,12 @@ from sklearn import tree
 
 
 st.set_page_config(
+<<<<<<< HEAD
     page_title="Projeto | Previsão de renda",
+=======
+    page_title="Projeto #02 | Previsão de renda",
+    page_icon="https://raw.githubusercontent.com//previsao-renda/main/ebac-course-utils/media/icon/favicon.ico",
+>>>>>>> 7f32ca07524939f258d70d93102b3b347813eeef
     layout="wide",
     initial_sidebar_state="auto",
 )
@@ -26,12 +31,21 @@ st.set_page_config(
 # --- Sidebar ---
 st.sidebar.markdown('''
 <div style="text-align:center">
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/FelipeBebas/Resources/refs/heads/main/assets/ebac-banner-reader.png" alt="ebac-logo" width=100%>
 </div>
                   
                     
 # **Projeto:** Previsão Renda
 [Felipe Barros de Francisco](https://www.linkedin.com/in/felipe-barros-de-francisco-124a3a9b/)
+=======
+<img src="https://raw.githubusercontent.com/previsao-renda/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo" width=50%>
+</div>
+
+# **Profissão: Cientista de Dados**
+### [**Projeto #02** | Previsão de renda](https://github.com/previsao-renda)
+
+>>>>>>> 7f32ca07524939f258d70d93102b3b347813eeef
 
 ---
 ''', unsafe_allow_html=True)
@@ -398,6 +412,12 @@ st.markdown('''
 ## Etapa 6 Crisp-DM: Implantação <a name="6"></a>
 ''', unsafe_allow_html=True)
 
+<<<<<<< HEAD
 st.markdown('[Simulando a previsão de renda]()')
+=======
+
+st.markdown('[Simulando a previsão de renda](https://-ebac-projeto02-previsao-renda.streamlit.app/~/+/Simulac%CC%A7a%CC%83o)')
+
+>>>>>>> 7f32ca07524939f258d70d93102b3b347813eeef
 
 '---'
