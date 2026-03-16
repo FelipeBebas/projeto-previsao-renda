@@ -7,9 +7,9 @@
 
 ---
 
-[streamlit.webm](https://use.webm)
+demo:
 
----
+https://github.com/user-attachments/assets/7641d97e-0787-48c5-9d0b-4979f13f15f0
 
 <!-- language flags -->
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)
