@@ -17,7 +17,7 @@ from sklearn import tree
 
 st.set_page_config(
     page_title="Projeto #02 | Previsão de renda",
-    page_icon="https://raw.githubusercontent.com/rhatiro/previsao-renda/main/ebac-course-utils/media/icon/favicon.ico",
+    page_icon="https://raw.githubusercontent.com//previsao-renda/main/ebac-course-utils/media/icon/favicon.ico",
     layout="wide",
     initial_sidebar_state="auto",
 )
@@ -25,15 +25,12 @@ st.set_page_config(
 
 st.sidebar.markdown('''
 <div style="text-align:center">
-<img src="https://raw.githubusercontent.com/rhatiro/previsao-renda/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo" width=50%>
+<img src="https://raw.githubusercontent.com/previsao-renda/main/ebac-course-utils/media/logo/newebac_logo_black_half.png" alt="ebac-logo" width=50%>
 </div>
 
 # **Profissão: Cientista de Dados**
-### [**Projeto #02** | Previsão de renda](https://github.com/rhatiro/previsao-renda)
+### [**Projeto #02** | Previsão de renda](https://github.com/previsao-renda)
 
-**Por:** [Roberto Hatiro Nishiyama](https://www.linkedin.com/in/rhatiro/)<br>
-**Data:** 14 de abril de 2023.<br>
-<!-- **Última atualização:** 14 de abril de 2023. -->
 
 ---
 ''', unsafe_allow_html=True)
@@ -449,7 +446,7 @@ st.markdown('''
 ''', unsafe_allow_html=True)
 
 
-st.markdown('[Simulando a previsão de renda](https://rhatiro-ebac-projeto02-previsao-renda.streamlit.app/~/+/Simulac%CC%A7a%CC%83o)')
+st.markdown('[Simulando a previsão de renda](https://-ebac-projeto02-previsao-renda.streamlit.app/~/+/Simulac%CC%A7a%CC%83o)')
 
 
 '---'
